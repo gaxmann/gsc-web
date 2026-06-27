@@ -6,7 +6,7 @@ This file contains selected notable changes for Gordon's Sun Clock Web. It is no
 
 ---
 
-## [0.9.0.3] - 2026-06-26 (First beta)
+## [0.9.0.3] - 2026-06-27 (First beta)
 
 ### Added
 
