@@ -25,7 +25,7 @@ For a permanent wall clock maybe the best option is still to buy a used Android 
 
 <p float="left">
   <img src="https://github.com/gaxmann/gordonssunclock/blob/master/_gitdesign/tablet.jpg" width="250" />
-  <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/sunclock2604.png" width="250" />
+  <!-- <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/sunclock2604.png" width="250" /> -->
   <!-- <img src="_gitdesign/screen_3b.png" width="250" /> -->
   <!-- <img src="_gitdesign/eink.jpg" width="250" /> -->
 </p>
