@@ -19,19 +19,19 @@ This file contains selected notable changes for [Astronomical Clock](https://Ast
 - Time control added to move the clock forward and backward in time
 - Code optimised
 
-## [0.9.0.50] - 2026-06-29 
+## [0.9.0.50] - 2026-06-29
 
 ### Added
 
-- Restructured. File size cut in half: more system fonts used, woff2 compression
-- Css updated
+- Restructured. File size reduced by half through increased use of system fonts and WOFF2 compression
+- CSS updated
 
 ## [0.9.0.3] - 2026-06-27 (Beta)
 
 ### Added
 
-- Dial and pages are now like in the apk. Text are slightly modified, but not everything yet
-- Some things are missing, as: Time control, Design selection, Weather, Alarms
+- Dial and pages now match the APK. Some text has been updated already
+- Some features are still missing, including: Time control, Design selection, Weather, and Alarms
 
 ---
 
